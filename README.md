@@ -1,0 +1,2 @@
+# OpenCVRustExamples
+OpenCV-Rust Examples
